@@ -1,4 +1,4 @@
-### **Das ist mein persönliches Repository, in dem ich meinen Fortschritt tracken und verfolgen kann.**
+### **Persönliches Repository, in dem ich meinen Fortschritt tracke und verfolge.**
 
 #### TIL (today I learned)
 
@@ -12,5 +12,6 @@
 - GitHub 
 - VSCode
 
-*09.06.21*
-- 
+*09.06.21:*
+- HTML Basics (Struktur, Grundbegriffe) 
+- CV in HTML (VSCode)
