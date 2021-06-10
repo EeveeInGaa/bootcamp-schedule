@@ -15,3 +15,8 @@
 *09.06.21 (MI):*
 - HTML Basics (Struktur, Grundbegriffe) 
 - CV in HTML (VSCode)
+
+*10.06.21 (DO) :*
+- HTML Listen und Navigation/Anker
+- wie man eine eigene Website auf Netlify veröffentlicht (mit GitHub als Quelle)
+- 
