@@ -21,4 +21,4 @@
 - wie man eine eigene Website auf Netlify veröffentlicht (mit GitHub als Quelle)
 
 *11.06.21 (FR) :*
-- 
+- xx
