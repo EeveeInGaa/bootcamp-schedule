@@ -17,6 +17,8 @@
 - CV in HTML (VSCode)
 
 *10.06.21 (DO) :*
-- HTML Listen und Navigation/Anker
+- HTML Listen und Navigation/Anker, generische Elemente 
 - wie man eine eigene Website auf Netlify veröffentlicht (mit GitHub als Quelle)
+
+*11.06.21 (FR) :*
 - 
