@@ -21,4 +21,10 @@
 - wie man eine eigene Website auf Netlify veröffentlicht (mit GitHub als Quelle)
 
 *11.06.21 (FR) :*
+- Basics CSS
+- weitere HTML Tags
+
+----
+
+*14.06.21 (MO) :*
 - xx
