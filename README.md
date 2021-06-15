@@ -27,4 +27,7 @@
 ----
 
 *14.06.21 (MO) :*
+- Selector Combinators, Fonts, Pseudo-Classes/Elements, Farben 
+
+*15.06.21 (DI) :*
 - xx
