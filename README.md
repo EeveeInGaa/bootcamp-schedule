@@ -30,4 +30,5 @@
 - Selector Combinators, Fonts, Pseudo-Classes/Elements, Farben 
 
 *15.06.21 (DI) :*
-- xx
+- Cascade, Vererbung 
+- Transition, gradient; Display, Flow 
