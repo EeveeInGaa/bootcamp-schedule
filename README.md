@@ -32,3 +32,12 @@
 *15.06.21 (DI) :*
 - Cascade, Vererbung 
 - Transition, gradient; Display, Flow 
+
+*16.06.21 (MI) :*
+- Display Porpertys, Flow Layout
+- position element
+- Längen 
+
+*17.06.21 (DO) :*
+- Media Queries/@-rules, Breakpoints
+
