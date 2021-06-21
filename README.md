@@ -41,3 +41,15 @@
 *17.06.21 (DO) :*
 - Media Queries/@-rules, Breakpoints
 
+*18.06.21 (FR) :*
+- Forms
+- Recap HTML/CSS (besseres Verständnis)
+
+----
+
+*21.06.21 (MO) :*
+- Git (Basics, init, status, log, add, commit, remote, push, pull, clone)
+
+*22.06.21 (DI) :*
+- xx
+
