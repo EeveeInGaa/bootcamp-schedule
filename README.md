@@ -57,6 +57,10 @@
 - transform 
 - grid
 
-*24-06.21 (DO) :*
+*24.06.21 (DO) :*
+- time management with remote work 
+- recap of everything 
+
+*25.06.21 (FR) :*
 - xx
 
