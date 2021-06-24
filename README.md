@@ -51,5 +51,12 @@
 - Git (Basics, init, status, log, add, commit, remote, push, pull, clone)
 
 *22.06.21 (DI) :*
+- advanced css (flexboxes, custom properties, transitions)
+
+*23.06.21 (MI) :*
+- transform 
+- grid
+
+*24-06.21 (DO) :*
 - xx
 
