@@ -62,5 +62,6 @@
 - recap of everything 
 
 *25.06.21 (FR) :*
-- xx
+- what i want in a job
+- much about UX design
 
