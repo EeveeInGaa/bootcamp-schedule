@@ -65,3 +65,7 @@
 - what i want in a job
 - much about UX design
 
+----
+
+*28.06.21 (MO) :*
+- js functions
