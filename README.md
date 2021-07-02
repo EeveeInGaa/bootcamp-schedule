@@ -1,4 +1,4 @@
-### **Persönliches Repository, in dem ich meinen Fortschritt tracke und verfolge.**
+### **Personal repository to track progress.**
 
 #### TIL (today I learned)
 
@@ -51,11 +51,11 @@
 - Git (Basics, init, status, log, add, commit, remote, push, pull, clone)
 
 *22.06.21 (DI) :*
-- advanced css (flexboxes, custom properties, transitions)
+- advanced css (flexbox - **still need to learn** , custom properties, transitions)
 
 *23.06.21 (MI) :*
 - transform 
-- grid
+- grid (**still need to learn**)
 
 *24.06.21 (DO) :*
 - time management with remote work 
@@ -69,3 +69,21 @@
 
 *28.06.21 (MO) :*
 - js functions
+- if conditions
+
+*29.06.21 (DI) :*
+- Data types
+- logical operants
+- custom functions
+
+*30.06.21 (MI) :*
+- objects
+- Data types (primitive - call by value, structural - call by reference)
+
+
+*02.07.21 (DO) :*
+- Arrays
+- loops (for, for-of)
+
+*02.07.21 (FR) :*
+- xx
