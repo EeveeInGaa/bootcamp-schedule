@@ -80,10 +80,20 @@
 - objects
 - Data types (primitive - call by value, structural - call by reference)
 
-
 *02.07.21 (DO) :*
 - Arrays
 - loops (for, for-of)
 
 *02.07.21 (FR) :*
+- Recap of p5
+
+----
+
+*05.07.21 (MO) :*
+- Basics JavaScript (access HTML, style/change elements, interaction with addEventListener, randomness)
+
+*06.07.21 (DI) :*
+- DOM/Node, Attributes
+
+*07.07.21 (MI) :*
 - xx
