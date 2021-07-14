@@ -96,4 +96,30 @@
 - DOM/Node, Attributes
 
 *07.07.21 (MI) :*
-- xx
+- custom attributes, DOM Phases, Coulette app
+
+*08.07.21 (DO) :*
+- understanding principles of Coulette app very good
+
+*09.07.21 (FR) :*
+- finish Coulette app
+
+----
+
+*12.07.2021 (MO) :*
+- further basics of JavaScript (while loops, properties: substring, forEach, join, split, reverse...)
+- how to solve code tasks and problems on my own (and with Google)
+
+*13.07.2021 (DI) :*
+- deeper understanding of how functions are build up
+- how to write code easier and shorter; how to split tasks in easy subtasks
+- basics of Drag and Drop 
+
+*14.07.2021 (MI) :*
+- 
+
+*15.07.2021 (DO) :*
+-
+
+*16.07.2021 (FR) :*
+- 
