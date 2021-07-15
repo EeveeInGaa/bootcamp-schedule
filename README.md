@@ -103,6 +103,7 @@
 
 *09.07.21 (FR) :*
 - finish Coulette app
+- JSON, local storage (still need to add to add to Coulette)
 
 ----
 
