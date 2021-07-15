@@ -116,7 +116,7 @@
 - basics of Drag and Drop 
 
 *14.07.2021 (MI) :*
-- 
+- started own todo app, how to start a project without any hints
 
 *15.07.2021 (DO) :*
 -
