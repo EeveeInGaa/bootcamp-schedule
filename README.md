@@ -120,7 +120,24 @@
 - started own todo app, how to start a project without any hints
 
 *15.07.2021 (DO) :*
--
+- worked on todo app 
 
 *16.07.2021 (FR) :*
+- worked on todo app, recap of state and DOM 
+
+----
+
+*19.07.2021 (MO) :*
+- classes (+constructor, new), this
+
+*20.07.2021 (DI) :*
 - 
+
+*21.07.2021 (MI) :*
+- 
+
+*22.07.2021 (DO) :*
+- 
+
+*23.07.2021 (FR) :*
+-  
