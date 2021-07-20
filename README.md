@@ -131,7 +131,7 @@
 - classes (+constructor, new), this
 
 *20.07.2021 (DI) :*
-- 
+- backend (fetch, .then, arrow functions, REST API, CRUD, Node/NPM, work with Postman)
 
 *21.07.2021 (MI) :*
 - 
