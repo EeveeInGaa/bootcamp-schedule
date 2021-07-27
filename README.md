@@ -141,3 +141,22 @@
 
 *23.07.2021 (FR) :*
 -  
+
+----
+
+*26.07.2021 (MO) :*
+- Tooling
+- Testing with Cypress 
+
+*27.07.2021 (DI) :*
+- Branching/Merging, Git Flow
+- Actions 
+
+*28.07.2021 (MI) :*
+- 
+
+*29.07.2021 (DO) :*
+- 
+
+*30.07.2021 (FR) :*
+-  
