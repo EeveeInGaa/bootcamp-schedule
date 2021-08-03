@@ -1,6 +1,8 @@
-### **Personal repository to track progress.**
+# **Personal repository to track progress.**
 
-#### TIL (today I learned)
+## TIL (today I learned)
+
+### **KW 23 //**
 
 *07.06.21 (MO):*
 - begriffliche Einordnung  
@@ -26,6 +28,8 @@
 
 ----
 
+### **KW 24 //**
+
 *14.06.21 (MO) :*
 - Selector Combinators, Fonts, Pseudo-Classes/Elements, Farben 
 
@@ -47,6 +51,8 @@
 
 ----
 
+### **KW 25 //**
+
 *21.06.21 (MO) :*
 - Git (Basics, init, status, log, add, commit, remote, push, pull, clone)
 
@@ -66,6 +72,8 @@
 - much about UX design
 
 ----
+
+### **KW 26 //**
 
 *28.06.21 (MO) :*
 - js functions
@@ -89,6 +97,8 @@
 
 ----
 
+### **KW 27 //**
+
 *05.07.21 (MO) :*
 - Basics JavaScript (access HTML, style/change elements, interaction with addEventListener, randomness)
 
@@ -106,6 +116,8 @@
 - JSON, local storage (still need to add to add to Coulette)
 
 ----
+
+### **KW 28 //**
 
 *12.07.2021 (MO) :*
 - further basics of JavaScript (while loops, properties: substring, forEach, join, split, reverse...)
@@ -127,6 +139,8 @@
 
 ----
 
+### **KW 29 //**
+
 *19.07.2021 (MO) :*
 - classes (+constructor, new), this
 
@@ -144,6 +158,8 @@
 
 ----
 
+### **KW 30 //**
+
 *26.07.2021 (MO) :*
 - Tooling
 - Testing with Cypress 
@@ -160,3 +176,16 @@
 
 *30.07.2021 (FR) :*
 -  
+
+----
+
+### **KW 31 //**
+
+*02.08.2021 (MO) :*
+- Template Literals 
+- Destructing
+
+*03.08.2021 (DI) :*
+- nullish coalescing
+- understand APIs (finally)
+- Vue.js basics (init project, App Components, link components with App.vue, Syntax)
